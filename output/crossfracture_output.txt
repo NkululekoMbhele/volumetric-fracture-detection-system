@@ -1,0 +1,49 @@
+ID: 0
+Colour: RED
+Max Length: 28
+Length(x): 8
+Length(y): 28
+Length(z): 15
+
+ID: 1
+Colour: BLUE
+Max Length: 24
+Length(x): 12
+Length(y): 5
+Length(z): 24
+
+ID: 2
+Colour: GREEN
+Max Length: 57
+Length(x): 53
+Length(y): 28
+Length(z): 57
+
+ID: 3
+Colour: YELLOW
+Max Length: 46
+Length(x): 43
+Length(y): 46
+Length(z): 43
+
+ID: 4
+Colour: ORANGE
+Max Length: 16
+Length(x): 6
+Length(y): 13
+Length(z): 16
+
+ID: 5
+Colour: PINK
+Max Length: 51
+Length(x): 12
+Length(y): 31
+Length(z): 51
+
+ID: 6
+Colour: CYAN
+Max Length: 11
+Length(x): 10
+Length(y): 7
+Length(z): 11
+
